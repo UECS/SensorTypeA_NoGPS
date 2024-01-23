@@ -11,7 +11,7 @@ UECS対応センサユニットA型の詳細な資料は以下にあります。
 https://www.naro.go.jp/publicity_report/publication/pamphlet/tech-pamph/135291.html
 
 使い方
-
+SENSOR-TYPEA-Simple_Release1.1_NOGPS
 
 コンパイルには以下のファイルに含まれるライブラリも必要です。
 
