@@ -1,4 +1,4 @@
-//2023年10月27日 Ver1.0 GPS・SDカード無し版
+//2023年10月27日 Ver1.1 GPS・SDカード無し版
 //[概要]UECS対応センサユニットAS型 ソースコード
 //気温,湿度,飽差,CO2,日射,温度2系統,アナログ電圧2系統
 //Mammillaria Shield Arduino MEGA専用
