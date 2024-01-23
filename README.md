@@ -15,6 +15,6 @@ https://www.naro.go.jp/publicity_report/publication/pamphlet/tech-pamph/135291.h
 
 https://www.naro.go.jp/publicity_report/publication/files/Attached_zip_files_1.zip
 
-Arduino IDE(2.xでもコンパイル可能です。)で"SENSOR-TYPEA-Simple_Release1.1_NOGPS.ino"ファイルを読み込み、ハードコーディングされた箇所(UECS-ID)を書き換えた後、コンパイルしてArduino MEGAに書き込んでください。
+Arduino IDEで"SENSOR-TYPEA-Simple_Release1.1_NOGPS.ino"ファイルを読み込み、ハードコーディングされた箇所(UECS-ID)を書き換えた後、コンパイルしてArduino MEGAに書き込んでください。
 なお、MACアドレスはW5500に内蔵されたものが自動的に割り当てられます。
 
